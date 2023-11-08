@@ -1,0 +1,5 @@
+.card-number {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
